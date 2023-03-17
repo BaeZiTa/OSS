@@ -2,4 +2,4 @@
 
 First project
 
-추가수정
+colab 좋네 기여 잘 되네
